@@ -3,12 +3,7 @@
  * Author: Goktug
  * Creation Date: Dec 23, 2019 at 5:34:33 PM
  *********************************************/
-/*********************************************
- * OPL 12.6.0.0 Model
- * Author: oliveras
- * Creation Date: Apr 5, 2019 at 10:47:26 AM
- *********************************************/
-
+ 
  int nClasses = ...;
  int nOptions = ...;
  range O = 1..nOptions;
